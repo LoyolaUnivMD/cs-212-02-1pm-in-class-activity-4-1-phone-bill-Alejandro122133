@@ -1,1 +1,16 @@
-THINK before you code...
+Explain code to user
+Present user with all options for packages
+Import Scanner and use it to record users input for which package they want
+Use a while loop to make sure all inputs are Package Green , Blue, or Purple.
+    a) Any other input prompts the user to input a new answer
+Use if statement to determine is package is package green
+    a) Ask user for the amount of extra gigabytes they want, and record response
+    b) calculate the amount of money they would spend
+    c) use another if statement if the total money is greater than or equal to $75 apply a $20 discount
+    d) output to user the gigabytes and cost
+Use and else if statement to determine if package was blue
+    a) ask user to input extra gigabytes, and calculate cost.
+    b)output to user the gigabytes and cost
+Use finale else if statement to see if user asked for package purple
+    a) output to user the gigabytes and cost
+
